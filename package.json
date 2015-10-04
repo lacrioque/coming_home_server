@@ -1,0 +1,24 @@
+{
+  "name": "coming_home_server",
+  "version": "0.0.1",
+  "description": "Server Architecture for the Coming-Home App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lacrioque/coming_home_server.git"
+  },
+  "keywords": [
+    "server",
+    "app",
+    "node.js"
+  ],
+  "author": "MArkus flür",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lacrioque/coming_home_server/issues"
+  },
+  "homepage": "https://github.com/lacrioque/coming_home_server#readme"
+}
