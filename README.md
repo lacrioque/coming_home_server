@@ -14,13 +14,13 @@ A.E. Coming home. -> one click and your friends and family know you are coming h
 
 ##Planned states are
 
--at work
--coming home
--on my way
--home
--private
--deathly peril ( *see Weasley's clock above*)
--waiting
+- at work
+- coming home
+- on my way
+- home
+- private
+- deathly peril ( *see Weasley's clock above*)
+- waiting
 
 ##Contributing
 
